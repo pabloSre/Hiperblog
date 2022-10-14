@@ -1,5 +1,8 @@
-tengo 3 gatos
+tengo 33 gatos
 
-1felix
-2gatito
+10felix
+20gatito
 3blanqui
+
+
+comen mucho los 3 
