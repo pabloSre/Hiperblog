@@ -1,6 +1,6 @@
 body
 {
-    color: DA0037;
+    color: rgba(191, 216, 139, 0.928);
     text-align: center;
     font-family: "Poppins";
     font-size: 20px;
@@ -45,7 +45,7 @@ body
 
 #footer 
 {
-    background-color: rgb(250, 161, 161);
+    background-color: rgba(222, 255, 114, 0.928);
     color: rgb(72, 82, 100);
     font-size: large;
     text-align: center;
